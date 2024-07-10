@@ -1,0 +1,32 @@
+100x100.jpg:blog_detail_card-author.png
+1048x1180.jpg:
+1140x500.jpg:
+120x120.jpg:sliprod_thumb02
+120x140.jpg:sliprod_thumb04
+130x130.jpg:card_selected_product_02
+1920x350.jpg:herobg
+1920x500.jpg:footer_bg.png
+1920x900.jpg:giftblock_bg.jpg
+1920x970.jpg:promoslidbg
+262x150.jpg:check
+283x283.jpg:instblock
+360x250.jpg:card-article
+360x500.jpg:card
+40x40.jpg:blog_detail_review01.jpg
+430x600.jpg:card_timer_bg.jpg
+478x700.jpg:prodcat
+522x590.jpg:slipprod
+626x215.jpg:photoflowers
+75x85.jpg:card-mini
+828x400.jpg:blogdetailcontent
+828x500.jpg:blogdetailcontent
+950x700.jpg:textvidblock_poster
+
+
+
+.article-image-slot {
+    display: none !important;
+}
+.intra-article-module, .intra-article-module-bottom-slot {
+    width: 100%;
+}
